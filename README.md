@@ -16,28 +16,28 @@ This project is a 2-page interactive reporting dashboard in Power BI that analyz
 
 ### 1. Overview and Insights
 
-- Cards - Display KPIs such as Total Production, Average Production per Area, and Top Producing State.
+- Cards - Display KPIs such as Total Production, Total Area, and Crop Yield.
 - Waterfall chart - Analyzes total production by season and crop year.
-- Donut chart - Explores seasonal contribution to total production.
-- Tables - Display top 10 districts and top 10 years each by total production.
+- Donut chart - Explores seasonal contribution to crop yield.
+- Tables - Display bottom 10 districts by sugarcane yield, and year-wise crop yield and total production.
 - Stacked bar chart - Compares each crop's contribution to total production.
 - Slicer - Filters the data by season.
 
 ### 2. Detailed Analysis
 
-- Cards - Display KPIs such as Crop Diversity Index, Crop Efficiency, and Top Crop.
+- Cards - Display KPIs such as Crop Diversity Index, Top Producing State, and Top Crop.
 - Line chart - Explores crop diversity index by crop year.
-- Donut chart - Compares average production per area by state.
-- Area chart - Analyzes total production and sum of area by crop year.
-- Map - Displays total production by state and crop.
+- Donut chart - Compares crop yield by state.
+- Area chart - Analyzes total production and total area by crop year.
+- Map - Displays crop yield by state and crop.
 - Slicer - Filters the data by state.
 
 ## Key Insights
 
-- Kerala was the top-producing state, with coconut contributing substantially to its production.
-- Whole Year crops accounted for the majority of total production.
-- 2011 recorded the highest total production among the years analyzed.
-- Production patterns varied considerably across states, districts, seasons, and crops.
+- Andhra Pradesh was identified as the highest-yielding state, with coconut contributing substantially to its yield.
+- Whole Year crops accounted for the majority of crop yield.
+- 2015 recorded the lowest crop diversity index among the years analyzed.
+- Crop yield and production patterns varied considerably across states, districts, seasons, and crops.
 
 ## Dataset
 
